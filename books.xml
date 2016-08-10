@@ -97,12 +97,12 @@
       detail in this deep programmer's reference.</description>
    </book>
    <book id="bk111">
-      <author>O'Brien, pchavez</author>
+      <author>NO no no!</author>
       <title>MSXML3: A Comprehensive Guide</title>
       <genre>Computer</genre>
       <price>36.95</price>
-      <publish_date>2000-12-01</publish_date>
-      <description>The Microsoft MSXML3 parser is covered in 
+      <publish_date>2100-12-01</publish_date>
+      <description>The Microsoft MSXML3 ERGH parser is covered in 
       detail, with attention to XML DOM interfaces, XSLT processing, 
       SAX and more.</description>
    </book>
@@ -116,5 +116,13 @@
       looking at how Visual Basic, Visual C++, C#, and ASP+ are 
       integrated into a comprehensive development 
       environment.</description>
+   </book>
+      <book id="bk113">
+      <author>No one knows</author>
+      <title>GIT for dummies</title>
+      <genre>Cloud</genre>
+      <price>1149.95</price>
+      <publish_date>3001-04-16</publish_date>
+      <description>Please do not read that</description>
    </book>
 </catalog>
