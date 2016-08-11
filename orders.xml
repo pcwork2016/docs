@@ -10,13 +10,7 @@
       <city>Redmond</city>
       <state>WA</state>
       <zip>98052</zip>
-    </address>
-  </customer>
-  <items>
-    <compact-disc>
-      <price>16.95</price>
-      <artist>Nelly</artist>
-      <title>Nellyville</title>
+ 
     </compact-disc>
     <compact-disc>
       <price>17.55</price>
@@ -34,6 +28,13 @@
       <html:li>Next Door</html:li>
       <html:li>Front Desk</html:li>
       <html:li>On Doorstep</html:li>
+	    </address>
+  </customer>
+  <items>
+    <compact-disc>
+      <price>16.95</price>
+      <artist>Nelly</artist>
+      <title>Nellyville</title>
     </html:ol>
     <html:b>Note</html:b> Remember to leave a note detailing where 
       to pick up the package.
